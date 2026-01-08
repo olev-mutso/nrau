@@ -1,2 +1,2 @@
 # nrau
-temp
+[Rules](https://www.nraubaltic.eu/rules)
