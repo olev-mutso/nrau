@@ -5,4 +5,5 @@ Exchange: JG
 
 
 # DXLog
-press Alt+M or go to View → Multipliers
+F10 = Windows → Check → Check Multipliers
+
