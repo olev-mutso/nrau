@@ -1,5 +1,5 @@
 # NRAU-Baltic Contest Multipliers
-[dxlog](https://dxlog.net/sw/files/download/contest/NRAU.txt) 
+[dxlog](https://dxlog.net/sw/files/download/contest/NRAU.txt)  
 Complete list of Fylke / Län / Province / Region abbreviations for the NRAU-Baltic Contest.
 
 ## Denmark (OZ/OY/OX)
