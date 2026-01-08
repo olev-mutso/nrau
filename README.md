@@ -1,4 +1,4 @@
 # nrau
 Callsign: ES5G  
-State: JG  
+Exchange: JG  
 [Rules](https://www.nraubaltic.eu/rules)
