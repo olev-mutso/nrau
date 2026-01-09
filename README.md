@@ -6,4 +6,5 @@ Exchange: JG
 
 # DXLog
 F10 = Windows → Check → Check Multipliers
+CAT = Options → Configure interfaces
 
