@@ -94,126 +94,80 @@ QSO:  3626 PH 2026-01-11 0658 ES5G          59  0037 JG     SA0LEK        59   0
 QSO:  3626 PH 2026-01-11 0659 ES5G          59  0038 JG     SM3RDU        59   017 GA    
 # SEQ SM3RDU change 0038 -> 0069
 QSO:  3626 PH 2026-01-11 0700 ES5G          59  0068 JG     ES4NY         59   059 JG    
-# SEQ ES4NY change 0068 -> 0070
 QSO:  3626 PH 2026-01-11 0700 ES5G          59  0069 JG     OH8JIX        59   030 KE    
-# SEQ OH8JIX change 0069 -> 0071
 QSO:  7086 PH 2026-01-11 0700 ES5G          59  0070 JG     YL7X          59   099 KG    
-# SEQ YL7X change 0070 -> 0072
 QSO:  7086 PH 2026-01-11 0701 ES5G          59  0071 JG     SE5E          59   068 UP    
-# SEQ SE5E change 0071 -> 0073
 QSO:  7086 PH 2026-01-11 0702 ES5G          59  0072 JG     OH2BBM        59   014 PP    
-# SEQ OH2BBM change 0072 -> 0074
 QSO:  3626 PH 2026-01-11 0702 ES5G          59  0073 JG     ES3ART        59   003 LV    
-# SEQ ES3ART change 0073 -> 0075
 QSO:  3626 PH 2026-01-11 0703 ES5G          59  0074 JG     ES2D          59   027 HR    
-# SEQ ES2D change 0074 -> 0076
 QSO:  3626 PH 2026-01-11 0705 ES5G          59  0075 JG     YL2VW         59   084 RR    
 # SEQ YL2VW change 0075 -> 0077
 QSO:  7086 PH 2026-01-11 0706 ES5G          59  0071 JG     ES4ART        59   004 LV    
 # SEQ ES4ART change 0071 -> 0078
 QSO:  3626 PH 2026-01-11 0706 ES5G          59  0076 JG     YL2KN         59   036 AU    
-# SEQ YL2KN change 0076 -> 0079
 QSO:  3626 PH 2026-01-11 0707 ES5G          59  0072 JG     LY2TS         59   023 TI    
-# SEQ LY2TS change 0072 -> 0080
 # NOTE: ly2ts sai 76 v6i 77
 QSO:  7086 PH 2026-01-11 0709 ES5G          59  0077 JG     LY5O          59   096 KM    
-# SEQ LY5O change 0077 -> 0081
 QSO:  3626 PH 2026-01-11 0710 ES5G          59  0074 JG     ES2RAO        59   038 HR    
-# SEQ ES2RAO change 0074 -> 0082
 # NOTE: es2rae sai 78
 QSO:  3626 PH 2026-01-11 0713 ES5G          59  0078 JG     ES6KW         59   021 PL    
-# SEQ ES6KW change 0078 -> 0083
 QSO:  3626 PH 2026-01-11 0715 ES5G          59  0075 JG     ES7GN         59   052 VP    
 # SEQ ES7GN change 0075 -> 0084
 QSO:  3626 PH 2026-01-11 0716 ES5G          59  0079 JG     ES2UK         59   038 HR    
-# SEQ ES2UK change 0079 -> 0085
 QSO:  3626 PH 2026-01-11 0718 ES5G          59  0076 JG     YL3OO         59   028 RR    
 # SEQ YL3OO change 0076 -> 0086
 QSO:  7086 PH 2026-01-11 0718 ES5G          59  0080 JG     ES2UK         59   039 HR    
-# SEQ ES2UK change 0080 -> 0087
 QSO:  7086 PH 2026-01-11 0719 ES5G          59  0077 JG     LY2AT         59   046 MM    
 # SEQ LY2AT change 0077 -> 0088
 QSO:  7086 PH 2026-01-11 0720 ES5G          59  0081 JG     SM7L          59   049 KR    
-# SEQ SM7L change 0081 -> 0089
 QSO:  7086 PH 2026-01-11 0721 ES5G          59  0082 JG     LY0NAS        59   016 VU    
-# SEQ LY0NAS change 0082 -> 0090
 QSO:  7086 PH 2026-01-11 0724 ES5G          59  0083 JG     ES5RR         59   090 TA    
-# SEQ ES5RR change 0083 -> 0091
 QSO:  7086 PH 2026-01-11 0725 ES5G          59  0083 JG     SA7DXR        59   059 KR    
-# SEQ SA7DXR change 0083 -> 0092
 # NOTE: sa7dxr sai 84
 QSO:  3626 PH 2026-01-11 0725 ES5G          59  0084 JG     YL3ARP        59   028 LI    
-# SEQ YL3ARP change 0084 -> 0093
 QSO:  7086 PH 2026-01-11 0725 ES5G          59  0085 JG     LY2MM         59   098 KM    
-# SEQ LY2MM change 0085 -> 0094
 QSO:  3626 PH 2026-01-11 0725 ES5G          59  0086 JG     ES5RR         59   091 TA    
-# SEQ ES5RR change 0086 -> 0095
 QSO:  3626 PH 2026-01-11 0726 ES5G          59  0087 JG     LY9A          59   099 PA    
-# SEQ LY9A change 0087 -> 0096
 QSO:  7086 PH 2026-01-11 0726 ES5G          59  0084 JG     ES3V          59   059 RP    
 # SEQ ES3V change 0084 -> 0097
 QSO:  3626 PH 2026-01-11 0727 ES5G          59  0088 JG     LY7R          59   082 SI    
-# SEQ LY7R change 0088 -> 0098
 QSO:  7086 PH 2026-01-11 0727 ES5G          59  0089 JG     SF6J          59   051 VD    
-# SEQ SF6J change 0089 -> 0099
 QSO:  7086 PH 2026-01-11 0728 ES5G          59  0085 JG     ES2MC         59   114 HR    
-# SEQ ES2MC change 0085 -> 0100
 # NOTE: mc sai 90
 QSO:  3626 PH 2026-01-11 0729 ES5G          59  0090 JG     YL3GY         59   051 BA    
-# SEQ YL3GY change 0090 -> 0101
 QSO:  7086 PH 2026-01-11 0733 ES5G          59  0091 JG     LY6C          59   074 KM    
-# SEQ LY6C change 0091 -> 0102
 QSO:  3626 PH 2026-01-11 0734 ES5G          59  0086 JG     YL1ZK         59   030 TS    
 # SEQ YL1ZK change 0086 -> 0103
 QSO:  7086 PH 2026-01-11 0737 ES5G          59  0092 JG     LY2ZO         59   088 KM    
-# SEQ LY2ZO change 0092 -> 0104
 QSO:  7086 PH 2026-01-11 0741 ES5G          59  0093 JG     SM7ATL        59   020 KA    
-# SEQ SM7ATL change 0093 -> 0105
 QSO:  7086 PH 2026-01-11 0743 ES5G          59  0094 JG     YL2BJ         59   096 VR    
-# SEQ YL2BJ change 0094 -> 0106
 QSO:  7086 PH 2026-01-11 0744 ES5G          59  0095 JG     LY4Q          59   021 VU    
-# SEQ LY4Q change 0095 -> 0107
 QSO:  7086 PH 2026-01-11 0744 ES5G          59  0096 JG     LB1R          59   050 BU    
-# SEQ LB1R change 0096 -> 0108
 QSO:  7086 PH 2026-01-11 0744 ES5G          59  0097 JG     LY2K          59   126 AT    
-# SEQ LY2K change 0097 -> 0109
 QSO:  7086 PH 2026-01-11 0745 ES5G          59  0098 JG     SA0IAT        59   058 SL    
-# SEQ SA0IAT change 0098 -> 0110
 # NOTE: ly4q, lb1r, ly2k, sa0iat qsy 80
 # NOTE: oh9js qsy to 80
 QSO:  7086 PH 2026-01-11 0746 ES5G          59  0099 JG     OH9JS         59   016 LA    
-# SEQ OH9JS change 0099 -> 0111
 QSO:  3626 PH 2026-01-11 0748 ES5G          59  0094 JG     OH9JS         59   017 LA    
 # SEQ OH9JS change 0094 -> 0112
 QSO:  3626 PH 2026-01-11 0748 ES5G          59  0095 JG     ES1BH         59   023 TL    
 # SEQ ES1BH change 0095 -> 0113
 QSO:  7086 PH 2026-01-11 0752 ES5G          59  0100 JG     LY6A          59   059 KN    
-# SEQ LY6A change 0100 -> 0114
 QSO:  7086 PH 2026-01-11 0752 ES5G          59  0101 JG     YL2GD         59   148 AU    
-# SEQ YL2GD change 0101 -> 0115
 QSO:  7086 PH 2026-01-11 0753 ES5G          59  0102 JG     LY5W          59   140 KN    
-# SEQ LY5W change 0102 -> 0116
 QSO:  7086 PH 2026-01-11 0753 ES5G          59  0103 JG     SA3SKL        59   020 GA    
-# SEQ SA3SKL change 0103 -> 0117
 QSO:  7086 PH 2026-01-11 0754 ES5G          59  0104 JG     SM2IAR        59   015 NB    
-# SEQ SM2IAR change 0104 -> 0118
 QSO:  7086 PH 2026-01-11 0754 ES5G          59  0105 JG     ES1BH         59   026 TL    
-# SEQ ES1BH change 0105 -> 0119
 QSO:  7086 PH 2026-01-11 0755 ES5G          59  0106 JG     YL3JA         59   069 TU    
-# SEQ YL3JA change 0106 -> 0120
 QSO:  3626 PH 2026-01-11 0756 ES5G          59  0107 JG     SM7ATL        59   025 KA    
-# SEQ SM7ATL change 0107 -> 0121
 QSO:  7086 PH 2026-01-11 0757 ES5G          59  0108 JG     LY5I          59   105 VV    
-# SEQ LY5I change 0108 -> 0122
 QSO:  3626 PH 2026-01-11 0758 ES5G          59  0109 JG     YL2GD         59   153 AU    
-# SEQ YL2GD change 0109 -> 0123
 QSO:  7086 PH 2026-01-11 0758 ES5G          59  0110 JG     LY2J          59   004 MM    
-# SEQ LY2J change 0110 -> 0124
 QSO:  7086 PH 2026-01-11 0759 ES5G          59  0111 JG     LY5G          59   068 KD    
-# SEQ LY5G change 0111 -> 0125
 QSO:  3534 CW 2026-01-11 0831 ES5G          599 0002 JG     LY3NX         599  001 UT    
+# SEQ ????
 QSO:  7148 CW 2026-01-11 0832 ES5G          599 0001 JG     SE4E          599  001 DA    
-# SEQ SE4E change 0001 -> 0003
+# SEQ ????
 QSO:  3534 CW 2026-01-11 0832 ES5G          599 0003 JG     OH2PM         599  004 VA    
 QSO:  3534 CW 2026-01-11 0833 ES5G          599 0005 JG     YL2VW         599  007 RR    
 QSO:  7148 CW 2026-01-11 0833 ES5G          599 0004 JG     SD5M          599  005 UP    
@@ -346,57 +300,31 @@ QSO:  7148 CW 2026-01-11 0930 ES5G          599 0118 JG     SM5ACQ        599  0
 QSO:  7148 CW 2026-01-11 0932 ES5G          599 0117 JG     LY5I          599  089 VV    
 # SEQ LY5I change 0117 -> 0119
 QSO:  7148 CW 2026-01-11 0932 ES5G          599 0118 JG     ES2MA         599  046 HR    
-# SEQ ES2MA change 0118 -> 0120
 QSO:  7148 CW 2026-01-11 0933 ES5G          599 0119 JG     SC6O          599  044 VD    
-# SEQ SC6O change 0119 -> 0121
 QSO:  7148 CW 2026-01-11 0934 ES5G          599 0120 JG     OH3Z          599  056 VA    
-# SEQ OH3Z change 0120 -> 0122
 QSO:  7148 CW 2026-01-11 0934 ES5G          599 0121 JG     SM0OEK        599  060 DA    
-# SEQ SM0OEK change 0121 -> 0123
 QSO:  7148 CW 2026-01-11 0934 ES5G          599 0122 JG     LY5O          599  086 KM    
-# SEQ LY5O change 0122 -> 0124
 QSO:  7148 CW 2026-01-11 0935 ES5G          599 0123 JG     OH6OS         599  054 EP    
-# SEQ OH6OS change 0123 -> 0125
 QSO:  7148 CW 2026-01-11 0935 ES5G          599 0124 JG     ES1BH         599  068 TL    
-# SEQ ES1BH change 0124 -> 0126
 QSO:  7148 CW 2026-01-11 0935 ES5G          599 0125 JG     SM5EIE        599  041 SO    
-# SEQ SM5EIE change 0125 -> 0127
 QSO:  7148 CW 2026-01-11 0936 ES5G          599 0126 JG     YL2GD         599  097 AU    
-# SEQ YL2GD change 0126 -> 0128
 QSO:  7148 CW 2026-01-11 0936 ES5G          599 0127 JG     OH6BA         599  051 KE    
-# SEQ OH6BA change 0127 -> 0129
 QSO:  3538 CW 2026-01-11 0937 ES5G          599 0128 JG     YL2CQ         599  053 TS    
-# SEQ YL2CQ change 0128 -> 0130
 QSO:  7148 CW 2026-01-11 0937 ES5G          599 0129 JG     OH2CV         599  053 PH    
-# SEQ OH2CV change 0129 -> 0131
 QSO:  7148 CW 2026-01-11 0938 ES5G          599 0130 JG     LY0NAS        599  033 VU    
-# SEQ LY0NAS change 0130 -> 0132
 QSO:  7148 CW 2026-01-11 0938 ES5G          599 0131 JG     LY7R          599  087 SI    
-# SEQ LY7R change 0131 -> 0133
 QSO:  7148 CW 2026-01-11 0939 ES5G          599 0132 JG     YL3JD         599  068 OE    
-# SEQ YL3JD change 0132 -> 0134
 QSO:  7148 CW 2026-01-11 0939 ES5G          599 0133 JG     YL7X          599  132 KG    
-# SEQ YL7X change 0133 -> 0135
 QSO:  3535 CW 2026-01-11 0940 ES5G          599 0134 JG     SA0IAT        599  044 SL    
-# SEQ SA0IAT change 0134 -> 0136
 QSO:  7148 CW 2026-01-11 0940 ES5G          599 0135 JG     SM0D          599  076 SL    
-# SEQ SM0D change 0135 -> 0137
 QSO:  3535 CW 2026-01-11 0941 ES5G          599 0136 JG     LY2K          599  086 AT    
-# SEQ LY2K change 0136 -> 0138
 QSO:  7148 CW 2026-01-11 0942 ES5G          599 0137 JG     SM7ATL        599  001 KA    
-# SEQ SM7ATL change 0137 -> 0139
 QSO:  7148 CW 2026-01-11 0942 ES5G          599 0138 JG     OH1NA         599  075 SA    
-# SEQ OH1NA change 0138 -> 0140
 QSO:  7013 CW 2026-01-11 0944 ES5G          599 0139 JG     LY1M          599  082 MM    
-# SEQ LY1M change 0139 -> 0141
 QSO:  7013 CW 2026-01-11 0944 ES5G          599 0140 JG     LY2A          599  101 MM    
-# SEQ LY2A change 0140 -> 0142
 QSO:  7013 CW 2026-01-11 0944 ES5G          599 0141 JG     LA6CDA        599  023 BU    
-# SEQ LA6CDA change 0141 -> 0143
 QSO:  7013 CW 2026-01-11 0945 ES5G          599 0142 JG     SA7DXR        599  057 KR    
-# SEQ SA7DXR change 0142 -> 0144
 QSO:  7013 CW 2026-01-11 0945 ES5G          599 0143 JG     YL5W          599  041 BV    
-# SEQ YL5W change 0143 -> 0145
 QSO:  7013 CW 2026-01-11 0945 ES5G          599 0145 JG     LY2MM         599  089 KM    
 QSO:  3525 CW 2026-01-11 0946 ES5G          599 0144 JG     OG1F          599  115 SA    
 # SEQ OG1F change 0144 -> 0146
