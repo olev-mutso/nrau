@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sets>
+    <Set Name="BEVERAGES" Active="true" Header="0" Orientation="0" Size="1">
+      <Groups>
+        <Group Bands="160m 80m 40m 20m 15m 10m" Template="0">
+          <Antenna X="21" Y="622" Active="false" Number="1" Path0="1" Path1="255" Path2="255" Path3="255" CmdSelect="0" CmdWinKey="0" CmdWinMod="0" Name="BEVERAGES" IsTX="false" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+            <CmdWinHotkey>0</CmdWinHotkey>
+            <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAAAAAAAAAAAA" RemoteMask="AAAAAAAAAAAAAAAA" />
+            <Antennas>
+              <Antenna X="0" Y="0" Active="true" Number="2" Path0="1" Path1="0" Path2="255" Path3="255" CmdSelect="72" CmdWinKey="72" CmdWinMod="393216" Name="50" IsTX="false" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+                <CmdWinHotkey>1</CmdWinHotkey>
+                <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAAoAAAAAAAAA" RemoteMask="AAAAAA8AAAAAAAAA" />
+                <Antennas />
+              </Antenna>
+              <Antenna X="0" Y="0" Active="true" Number="3" Path0="1" Path1="1" Path2="255" Path3="255" CmdSelect="74" CmdWinKey="74" CmdWinMod="393216" Name="90" IsTX="false" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+                <CmdWinHotkey>2</CmdWinHotkey>
+                <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAAsAAAAAAAAA" RemoteMask="AAAAAA8AAAAAAAAA" />
+                <Antennas />
+              </Antenna>
+              <Antenna X="0" Y="0" Active="true" Number="4" Path0="1" Path1="2" Path2="255" Path3="255" CmdSelect="75" CmdWinKey="75" CmdWinMod="393216" Name="180" IsTX="false" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+                <CmdWinHotkey>4</CmdWinHotkey>
+                <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAA0AAAAAAAAA" RemoteMask="AAAAAA8AAAAAAAAA" />
+                <Antennas />
+              </Antenna>
+              <Antenna X="0" Y="0" Active="true" Number="5" Path0="1" Path1="3" Path2="255" Path3="255" CmdSelect="81" CmdWinKey="81" CmdWinMod="393216" Name="235" IsTX="false" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+                <CmdWinHotkey>5</CmdWinHotkey>
+                <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAA4AAAAAAAAA" RemoteMask="AAAAAA8AAAAAAAAA" />
+                <Antennas />
+              </Antenna>
+              <Antenna X="0" Y="0" Active="true" Number="6" Path0="1" Path1="4" Path2="255" Path3="255" CmdSelect="87" CmdWinKey="87" CmdWinMod="393216" Name="275" IsTX="false" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+                <CmdWinHotkey>6</CmdWinHotkey>
+                <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAA8AAAAAAAAA" RemoteMask="AAAAAA8AAAAAAAAA" />
+                <Antennas />
+              </Antenna>
+              <Antenna X="0" Y="0" Active="true" Number="7" Path0="1" Path1="5" Path2="255" Path3="255" CmdSelect="85" CmdWinKey="85" CmdWinMod="393216" Name="320" IsTX="false" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+                <CmdWinHotkey>7</CmdWinHotkey>
+                <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAAgAAAAAAAAA" RemoteMask="AAAAAA8AAAAAAAAA" />
+                <Antennas />
+              </Antenna>
+              <Antenna X="0" Y="0" Active="true" Number="8" Path0="1" Path1="6" Path2="255" Path3="255" CmdSelect="71" CmdWinKey="71" CmdWinMod="393216" Name="TX" IsTX="false" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+                <CmdWinHotkey>8</CmdWinHotkey>
+                <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAAkAAAAAAAAA" RemoteMask="AAAAAA8AAAAAAAAA" />
+                <Antennas />
+              </Antenna>
+            </Antennas>
+          </Antenna>
+        </Group>
+      </Groups>
+    </Set>
+    <Set Name="tx" Active="false" Header="0" Orientation="0" Size="1">
+      <Groups>
+        <Group Bands="160m 80m 40m 20m 15m 10m" Template="0">
+          <Antenna X="0" Y="0" Active="false" Number="9" Path0="2" Path1="255" Path2="255" Path3="255" CmdSelect="0" CmdWinKey="0" CmdWinMod="0" Name="tx" IsTX="false" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+            <CmdWinHotkey>0</CmdWinHotkey>
+            <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAAAAAAAAAAAA" RemoteMask="AAAAAAAAAAAAAAAA" />
+            <Antennas>
+              <Antenna X="0" Y="0" Active="true" Number="10" Path0="2" Path1="0" Path2="255" Path3="255" CmdSelect="77" CmdWinKey="0" CmdWinMod="0" Name="tx" IsTX="true" IsToggleRX="false" IsToggleTX="false" ExclusiveFlag="0" mLed="0" xLed="0" yLed="0">
+                <CmdWinHotkey>0</CmdWinHotkey>
+                <Outputs LocalState="AAA=" LocalMask="AAA=" RemoteState="AAAAAAAAAAAAAAAA" RemoteMask="AAAAAAAAAAAAAAAA" />
+                <Antennas />
+              </Antenna>
+            </Antennas>
+          </Antenna>
+        </Group>
+      </Groups>
+    </Set>
+  </Sets>
+</Configuration>
