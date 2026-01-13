@@ -1,0 +1,68 @@
+ES5G 40m CW ACTIVITY GRAPH
+==========================
+
+Frequencies: 7148 kHz, 7013 kHz, 7011 kHz, 7014 kHz, 7015 kHz, 7023 kHz (40 meters)
+Mode: CW (Morse Code)  
+Total Contacts: 106
+Contest: NRAU-BALTIC-2026
+Date: 2026-01-11
+
+TIME INTERVAL ANALYSIS (10-minute periods):
+==========================================
+
+08:30-08:39  |█████                         | 5 QSOs
+08:40-08:49  |█████████                     | 9 QSOs
+08:50-08:59  |██████                        | 6 QSOs
+09:00-09:09  |███                           | 3 QSOs
+09:10-09:19  |████████                      | 8 QSOs
+09:20-09:29  |████████                      | 8 QSOs
+09:30-09:39  |█████████████████             | 17 QSOs ← PEAK PERIOD
+09:40-09:49  |█████████████                 | 13 QSOs
+09:50-09:59  |██████████████                | 14 QSOs
+10:00-10:09  |████████████                  | 12 QSOs
+10:10-10:19  |███████                       | 7 QSOs
+10:20-10:29  |████                          | 4 QSOs
+
+FREQUENCY USAGE:
+================
+7148 kHz: 62 contacts (main frequency)
+7013 kHz: 31 contacts (secondary)
+7011 kHz: 1 contact
+7014 kHz: 1 contact
+7015 kHz: 2 contacts
+7023 kHz: 1 contact
+
+STATISTICS:
+===========
+- Operating Period: 08:30 - 10:30 UTC (2 hours)
+- Peak Activity: 09:30-09:39 (17 QSOs)
+- Lowest Activity: 09:00-09:09 (3 QSOs)
+- Average Rate: 53 QSOs/hour
+- Peak Rate: 102 QSOs/hour (09:30-09:39)
+
+ANALYSIS:
+=========
+- Slower start compared to 80m CW
+- Activity builds through first hour
+- Peak period 09:30-10:09 (56 QSOs in 40 minutes)
+- More sustained activity than 80m CW
+- Two main frequencies used effectively
+- Inverse relationship with 80m (40m peaks as 80m declines)
+
+BAND COORDINATION STRATEGY:
+============================
+80m CW: Peak 08:40-09:09, declines after 09:30
+40m CW: Builds through 09:30, peaks 09:30-10:09
+- Perfect complementary timing
+- 40m takes over as 80m activity drops
+- Shows excellent multi-band contest management
+
+COMPARISON WITH SSB:
+===================
+CW Period: 08:30-10:30 (106 + 89 = 195 total)
+SSB Period: 06:00-08:00 (46 + 84 = 130 total) 
+- CW more productive overall
+- Better band coordination in CW
+- Higher contact rates in CW mode
+
+Generated: 2026-01-12

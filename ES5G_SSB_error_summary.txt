@@ -1,0 +1,51 @@
+ES5G SSB CONTACTS ERROR SUMMARY
+================================
+
+Log File: ES5G_SSB_contacts.log
+Total SSB Contacts: 120
+Contest: NRAU-BALTIC-2026
+
+SEQUENCE NUMBER ANALYSIS:
+========================
+
+OVERLAPPING NUMBERS (19 duplicates found):
+------------------------------------------
+0032 - Used twice
+0034 - Used twice  
+0035 - Used twice
+0036 - Used twice
+0037 - Used twice
+0038 - Used twice
+0058 - Used twice
+0071 - Used twice
+0072 - Used twice
+0074 - Used twice
+0075 - Used twice
+0076 - Used twice
+0077 - Used twice
+0083 - Used twice
+0084 - Used twice
+0085 - Used twice
+0086 - Used twice
+0094 - Used twice
+0095 - Used twice
+
+MISSING NUMBERS (Gaps in sequence):
+----------------------------------
+None - All numbers from 0001 to 0111 are present
+
+SUMMARY:
+========
+- Sequence Range: 0001 to 0111
+- Total Duplicates: 19
+- Total Missing: 0
+- Error Rate: 15.8% (19 duplicates / 120 contacts)
+
+RECOMMENDATIONS:
+===============
+1. Review logging procedures for SSB operations
+2. Improve coordination between operators
+3. Consider implementing real-time sequence number validation
+4. Check for possible band change logging errors
+
+Generated: 2026-01-12

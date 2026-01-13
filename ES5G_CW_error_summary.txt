@@ -1,0 +1,50 @@
+ES5G CW CONTACTS ERROR SUMMARY
+==============================
+
+Log File: ES5G_CW_contacts.log
+Total CW Contacts: 192
+Contest: NRAU-BALTIC-2026
+
+SEQUENCE NUMBER ANALYSIS:
+========================
+
+OVERLAPPING NUMBERS (6 duplicates found):
+-----------------------------------------
+0067 - Used twice (ES2RR and LA5LJA)
+0080 - Used twice (LY2AX and ES5YG) 
+0117 - Used twice (SM5IMO and LY5I)
+0118 - Used twice (SM5ACQ and ES2MA)
+0166 - Used twice (LY2PJ and LY2AT)
+0176 - Used twice (SE5E and ES5NY)
+
+MISSING NUMBERS (Gaps in sequence):
+----------------------------------
+0015 - Missing (sequence jumps from 0014 to 0016)
+0048 - Missing (sequence jumps from 0047 to 0049)
+0057 - Missing (sequence jumps from 0056 to 0058)
+0144 - Missing (sequence jumps from 0143 to 0145)
+0151 - Missing (sequence jumps from 0150 to 0152)
+0180 - Missing (sequence jumps from 0179 to 0181)
+
+OUT OF SEQUENCE ENTRIES:
+------------------------
+0184 - Appears out of chronological order
+0190 - Appears out of chronological order
+
+SUMMARY:
+========
+- Sequence Range: 0001 to 0192
+- Total Duplicates: 6
+- Total Missing: 6
+- Out of Sequence: 2
+- Total Errors: 14
+- Error Rate: 7.3% (14 errors / 192 contacts)
+
+RECOMMENDATIONS:
+===============
+1. Investigate timing coordination between multiple CW operators
+2. Review band change procedures and logging synchronization
+3. Implement sequential number verification during contest
+4. Better coordination between 80m and 40m operations
+
+Generated: 2026-01-12

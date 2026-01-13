@@ -1,0 +1,43 @@
+ES5G 80m SSB ACTIVITY GRAPH
+===========================
+
+Frequency: 3626 kHz (80 meters)
+Mode: SSB (Phone)
+Total Contacts: 84
+Contest: NRAU-BALTIC-2026
+Date: 2026-01-11
+
+TIME INTERVAL ANALYSIS (10-minute periods):
+==========================================
+
+06:00-06:09  |█████████                     | 9 QSOs
+06:10-06:19  |██████████                    | 10 QSOs  
+06:20-06:29  |██████████                    | 10 QSOs
+06:30-06:39  |██████████████████            | 18 QSOs ← PEAK HOUR
+06:40-06:49  |███                           | 3 QSOs
+06:50-06:59  |████████████                  | 12 QSOs
+07:00-07:09  |███████                       | 7 QSOs
+07:10-07:19  |█████                         | 5 QSOs
+07:20-07:29  |█████                         | 5 QSOs
+07:30-07:39  |█                             | 1 QSO
+07:40-07:49  |██                            | 2 QSOs
+07:50-07:59  |██                            | 2 QSOs
+
+STATISTICS:
+===========
+- Operating Period: 06:00 - 07:59 UTC (2 hours)
+- Peak Activity: 06:30-06:39 (18 QSOs)
+- Lowest Activity: 07:30-07:39 (1 QSO)
+- Average Rate: 42 QSOs/hour
+- Peak Rate: 108 QSOs/hour (06:30-06:39)
+
+ANALYSIS:
+=========
+- Strong start with consistent activity 06:00-06:39
+- Significant drop after 06:40, possibly due to:
+  * Band change to 40m
+  * Propagation changes
+  * Contest rules (mode switching)
+- Activity tapers off significantly after 07:00
+
+Generated: 2026-01-12

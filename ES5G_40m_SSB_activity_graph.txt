@@ -1,0 +1,53 @@
+ES5G 40m SSB ACTIVITY GRAPH
+===========================
+
+Frequencies: 7080 kHz & 7086 kHz (40 meters)
+Mode: SSB (Phone)
+Total Contacts: 46
+Contest: NRAU-BALTIC-2026
+Date: 2026-01-11
+
+TIME INTERVAL ANALYSIS (10-minute periods):
+==========================================
+
+06:00-06:09  |██                            | 2 QSOs
+06:10-06:19  |█                             | 1 QSO  
+06:20-06:29  |██                            | 2 QSOs
+06:30-06:39  |█                             | 1 QSO
+06:40-06:49  |                               | 0 QSOs
+06:50-06:59  |██████                        | 6 QSOs
+07:00-07:09  |█████                         | 5 QSOs
+07:10-07:19  |██                            | 2 QSOs
+07:20-07:29  |████████                      | 8 QSOs
+07:30-07:39  |██                            | 2 QSOs
+07:40-07:49  |███████                       | 7 QSOs
+07:50-07:59  |██████████                    | 10 QSOs ← PEAK PERIOD
+
+FREQUENCY BREAKDOWN:
+===================
+7080 kHz: 5 contacts (06:07-06:21) - Early activity
+7086 kHz: 41 contacts (06:39-07:59) - Main activity
+
+STATISTICS:
+===========
+- Operating Period: 06:00 - 07:59 UTC (2 hours)
+- Peak Activity: 07:50-07:59 (10 QSOs)
+- Lowest Activity: 06:40-06:49 (0 QSOs)
+- Average Rate: 23 QSOs/hour
+- Peak Rate: 60 QSOs/hour (07:50-07:59)
+
+ANALYSIS:
+=========
+- Limited early activity on 7080 kHz (06:07-06:21)
+- Gap period 06:40-06:49 (likely band switching)
+- Main activity on 7086 kHz starting 06:39
+- Increasing activity trend towards end
+- Complementary pattern to 80m (40m picks up as 80m drops)
+
+BAND COORDINATION:
+==================
+- 80m dominant 06:00-06:39 (peak 18 QSOs in 06:30-06:39)  
+- 40m takes over 06:50+ (peak 10 QSOs in 07:50-07:59)
+- Shows good band management strategy
+
+Generated: 2026-01-12

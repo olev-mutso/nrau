@@ -1,0 +1,61 @@
+ES5G 80m CW ACTIVITY GRAPH
+==========================
+
+Frequencies: 3534 kHz, 3535 kHz, 3538 kHz, 3532 kHz, 3525 kHz, 3517 kHz, 3529 kHz, 3530 kHz (80 meters)
+Mode: CW (Morse Code)
+Total Contacts: 89
+Contest: NRAU-BALTIC-2026
+Date: 2026-01-11
+
+TIME INTERVAL ANALYSIS (10-minute periods):
+==========================================
+
+08:30-08:39  |████████                      | 8 QSOs
+08:40-08:49  |████████████████████          | 20 QSOs ← PEAK PERIOD
+08:50-08:59  |██████████████████            | 18 QSOs
+09:00-09:09  |████████████████              | 16 QSOs
+09:10-09:19  |███████                       | 7 QSOs
+09:20-09:29  |█████████                     | 9 QSOs
+09:30-09:39  |█                             | 1 QSO
+09:40-09:49  |███                           | 3 QSOs
+09:50-09:59  |███                           | 3 QSOs
+10:00-10:09  |██                            | 2 QSOs
+10:10-10:19  |                               | 0 QSOs
+10:20-10:29  |█                             | 1 QSO
+10:30-10:39  |█                             | 1 QSO
+
+FREQUENCY USAGE:
+================
+3534 kHz: 61 contacts (main frequency)
+3535 kHz: 2 contacts
+3538 kHz: 2 contacts  
+3532 kHz: 1 contact
+3525 kHz: 1 contact
+3517 kHz: 1 contact
+3529 kHz: 1 contact
+3530 kHz: 1 contact
+
+STATISTICS:
+===========
+- Operating Period: 08:30 - 10:30 UTC (2 hours)
+- Peak Activity: 08:40-08:49 (20 QSOs)
+- Lowest Activity: 10:10-10:19 (0 QSOs)
+- Average Rate: 45 QSOs/hour
+- Peak Rate: 120 QSOs/hour (08:40-08:49)
+
+ANALYSIS:
+=========
+- Strong opening burst 08:40-09:09 (54 QSOs in 30 minutes)
+- Sustained high activity first hour (08:30-09:30)
+- Significant decline after 09:30
+- Multiple frequency usage shows good band management
+- 3534 kHz was the primary workhorse frequency
+
+PATTERN COMPARISON:
+==================
+- CW starts 2.5 hours after SSB ended (08:30 vs 06:00)
+- Higher peak rate than SSB (120 vs 108 QSOs/hour) 
+- More concentrated activity period
+- Shows classic contest timing strategy (SSB first, CW later)
+
+Generated: 2026-01-12

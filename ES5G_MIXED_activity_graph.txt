@@ -1,0 +1,77 @@
+ES5G COMPLETE CONTEST ACTIVITY GRAPH
+====================================
+
+Contest: NRAU-BALTIC-2026
+Date: 2026-01-11
+Total Contacts: 312 (120 SSB + 192 CW)
+Operating Time: 4.5 hours (06:00-10:30 UTC)
+
+COMBINED TIME INTERVAL ANALYSIS (10-minute periods):
+===================================================
+
+            SSB PERIOD (06:00-08:00)           |      CW PERIOD (08:30-10:30)
+06:00-06:09  |███████████ (11)                | 
+06:10-06:19  |███████████ (11)                | 
+06:20-06:29  |████████████ (12)               | 
+06:30-06:39  |███████████████████ (19) ← PEAK |
+06:40-06:49  |███ (3)                         |
+06:50-06:59  |██████████████████ (18)         |
+07:00-07:09  |████████████ (12)               |
+07:10-07:19  |███████ (7)                     |
+07:20-07:29  |█████████████ (13)              |
+07:30-07:39  |███ (3)                         |
+07:40-07:49  |█████████ (9)                   |
+07:50-07:59  |████████████ (12)               |
+08:00-08:29  |                                | ← 30 MIN BREAK
+08:30-08:39  |                                |████████████ (12)
+08:40-08:49  |                                |██████████████████████████████ (29) ← PEAK
+08:50-08:59  |                                |████████████████████████ (24)
+09:00-09:09  |                                |███████████████████ (19)
+09:10-09:19  |                                |███████████████ (15)
+09:20-09:29  |                                |█████████████████ (17)
+09:30-09:39  |                                |██████████████████ (18)
+09:40-09:49  |                                |████████████████ (16)
+09:50-09:59  |                                |█████████████████ (17)
+10:00-10:09  |                                |██████████████ (14)
+10:10-10:19  |                                |███████ (7)
+10:20-10:29  |                                |█████ (5)
+10:30-10:39  |                                |█ (1)
+
+MODE BREAKDOWN BY TIME:
+=======================
+SSB CONTACTS: 130 (06:00-07:59 UTC)
+- 80m SSB: 84 contacts
+- 40m SSB: 46 contacts
+
+CW CONTACTS: 192 (08:30-10:30 UTC)  
+- 80m CW: 89 contacts
+- 40m CW: 103 contacts
+
+BREAK PERIOD: 08:00-08:30 (30 minutes)
+
+STATISTICS:
+===========
+- Total Operating Time: 4.5 hours
+- Overall Average Rate: 69 QSOs/hour
+- Peak SSB Rate: 114 QSOs/hour (06:30-06:39)
+- Peak CW Rate: 174 QSOs/hour (08:40-08:49)
+- SSB Average Rate: 65 QSOs/hour
+- CW Average Rate: 96 QSOs/hour
+
+CONTEST STRATEGY ANALYSIS:
+==========================
+1. **Mode Separation**: Clean 30-minute break between SSB and CW
+2. **Band Coordination**: Excellent multi-band management within each mode
+3. **Peak Performance**: CW significantly outperformed SSB in rate
+4. **Time Management**: 2 hours SSB, 2 hours CW = balanced approach
+5. **Activity Distribution**: Sustained high activity throughout both periods
+
+KEY INSIGHTS:
+=============
+- CW 48% more efficient than SSB (96 vs 65 QSOs/hour)
+- Perfect timing strategy with defined break period
+- Both modes show excellent band coordination
+- Contest rules likely enforced mode/time constraints
+- Total of 312 contacts in 4.5 hours = strong performance
+
+Generated: 2026-01-12
