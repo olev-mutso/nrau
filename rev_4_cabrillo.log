@@ -47,7 +47,7 @@ QSO:  3626 PH 2026-01-11 0626 ES5G          59  0032 JG     LY5G          59   0
 QSO:  3626 PH 2026-01-11 0628 ES5G          59  0033 JG     LY3IZ         59   018 UT    
 QSO:  3626 PH 2026-01-11 0629 ES5G          59  0034 JG     YL2TD         59   002 RR    
 QSO:  3626 PH 2026-01-11 0630 ES5G          59  0032 JG     OH7JL         59   025 PK    
-# SEQ OH7JL change 0032 -> 0035
+# SEQ OH7JL change 0032 -> 0035 --> Joc was not changing numbers at this point. Propose to leave as-is
 QSO:  3626 PH 2026-01-11 0630 ES5G          59  0035 JG     ES2IA         59   018 HR    
 QSO:  3626 PH 2026-01-11 0631 ES5G          59  0036 JG     YL3OF         59   016 BV    
 QSO:  3626 PH 2026-01-11 0632 ES5G          59  0037 JG     YL3NT         59   017 RE    
