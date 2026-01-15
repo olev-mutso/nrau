@@ -145,8 +145,6 @@ QSO:  7086 PH 2026-01-11 0744 ES5G          59  0095 JG     LY4Q          59   0
 QSO:  7086 PH 2026-01-11 0744 ES5G          59  0096 JG     LB1R          59   050 BU    
 QSO:  7086 PH 2026-01-11 0744 ES5G          59  0097 JG     LY2K          59   126 AT    
 QSO:  7086 PH 2026-01-11 0745 ES5G          59  0098 JG     SA0IAT        59   058 SL    
-# NOTE: ly4q, lb1r, ly2k, sa0iat qsy 80
-# NOTE: oh9js qsy to 80
 QSO:  7086 PH 2026-01-11 0746 ES5G          59  0099 JG     OH9JS         59   016 LA    
 QSO:  3626 PH 2026-01-11 0748 ES5G          59  0094 JG     OH9JS         59   017 LA    
 # SEQ OH9JS change 0094 -> 0112
