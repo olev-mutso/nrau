@@ -79,8 +79,7 @@ QSO:  3626 PH 2026-01-11 0652 ES5G          59  0034 JG     YL2PJ         59   0
 QSO:  7086 PH 2026-01-11 0652 ES5G          59  0059 JG     LA7USA        59   003 HO    
 QSO:  7086 PH 2026-01-11 0653 ES5G          59  0060 JG     ES7A          59   095 VP    
 QSO:  7086 PH 2026-01-11 0653 ES5G          59  0061 JG     LY9A          59   079 PA    
-QSO:  3626 PH 2026-01-11 0654 ES5G          59  0035 JG     ES3BM         59   003 RP    
-# SEQ ES3BM change 0035 -> 0062, Joc started using space but noticed it was wrong. Propose changing
+QSO:  3626 PH 2026-01-11 0654 ES5G          59  0062 JG     ES3BM         59   003 RP    
 QSO:  7086 PH 2026-01-11 0655 ES5G          59  0062 JG     ES2RX         59   089 HR    
 QSO:  3626 PH 2026-01-11 0655 ES5G          59  0063 JG     LY4MP         59   003 KI    
 QSO:  3626 PH 2026-01-11 0655 ES5G          59  0064 JG     LY7M          59   014 UT    
