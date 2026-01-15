@@ -294,7 +294,8 @@ QSO:  7148 CW 2026-01-11 0928 ES5G          599 0114 JG     LY6O          599  0
 QSO:  3534 CW 2026-01-11 0928 ES5G          599 0115 JG     OH1NA         599  053 SA    
 QSO:  3534 CW 2026-01-11 0929 ES5G          599 0116 JG     YL5W          599  033 BV    
 QSO:  7148 CW 2026-01-11 0929 ES5G          599 0117 JG     SM5IMO        599  060 SO    
-QSO:  7148 CW 2026-01-11 0930 ES5G          599 0118 JG     SM5ACQ        599  063 VM    
+QSO:  7148 CW 2026-01-11 0930 ES5G          599 0118 JG     SM5ACQ        599  063 VM 
+# Any CW numbers on 40 meters from this point, DO NOT CHANGE the given sequence (Lucas did not manually adjust)
 QSO:  7148 CW 2026-01-11 0932 ES5G          599 0117 JG     LY5I          599  089 VV    
 # SEQ LY5I change 0117 -> 0119
 QSO:  7148 CW 2026-01-11 0932 ES5G          599 0118 JG     ES2MA         599  046 HR    
