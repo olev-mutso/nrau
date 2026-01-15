@@ -133,9 +133,9 @@ QSO:  7086 PH 2026-01-11 0744 ES5G          59  0097 JG     LY2K          59   1
 QSO:  7086 PH 2026-01-11 0745 ES5G          59  0098 JG     SA0IAT        59   058 SL    
 QSO:  7086 PH 2026-01-11 0746 ES5G          59  0099 JG     OH9JS         59   016 LA    
 QSO:  3626 PH 2026-01-11 0748 ES5G          59  0094 JG     OH9JS         59   017 LA    
-# SEQ OH9JS change 0094 -> 0112
+# SEQ OH9JS change 0094 -> 0112, changes depend on line 137
 QSO:  3626 PH 2026-01-11 0748 ES5G          59  0095 JG     ES1BH         59   023 TL    
-# SEQ ES1BH change 0095 -> 0113
+# SEQ ES1BH change 0095 -> 0113, ask help
 QSO:  7086 PH 2026-01-11 0752 ES5G          59  0100 JG     LY6A          59   059 KN    
 QSO:  7086 PH 2026-01-11 0752 ES5G          59  0101 JG     YL2GD         59   148 AU    
 QSO:  7086 PH 2026-01-11 0753 ES5G          59  0102 JG     LY5W          59   140 KN    
