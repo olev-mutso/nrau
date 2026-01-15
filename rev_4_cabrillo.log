@@ -85,8 +85,7 @@ QSO:  3626 PH 2026-01-11 0656 ES5G          59  0065 JG     ES8TPR        59   0
 QSO:  3626 PH 2026-01-11 0656 ES5G          59  0066 JG     SA7DXR        59   035 KR    
 QSO:  7086 PH 2026-01-11 0656 ES5G          59  0066 JG     OH3Z          59   066 VA    
 QSO:  3626 PH 2026-01-11 0657 ES5G          59  0067 JG     YL3ARE        59   015 RR    
-QSO:  3626 PH 2026-01-11 0658 ES5G          59  0037 JG     SA0LEK        59   007 SL    
-# SEQ SA0LEK change 0037 -> 0068, Joc started using space but noticed it was wrong. Propose changing
+QSO:  3626 PH 2026-01-11 0658 ES5G          59  0068 JG     SA0LEK        59   007 SL    
 QSO:  3626 PH 2026-01-11 0659 ES5G          59  0038 JG     SM3RDU        59   017 GA    
 # SEQ SM3RDU change 0038 -> 0069, Joc started using space but noticed it was wrong. Propose changing
 QSO:  3626 PH 2026-01-11 0700 ES5G          59  0068 JG     ES4NY         59   059 JG    
