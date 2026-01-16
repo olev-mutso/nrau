@@ -52,7 +52,25 @@ Final Score: X points × X multipliers = X
 
 ## Notes
 - Ignore comment lines (starting with #)
-- Band identification: 3xxx = 80m, 7xxx = 40m
-- Mode identification: Look for "PH" or "CW" in QSO line
+- Band identification: Column 2 frequency (3xxx = 80m, 7xxx = 40m)
+- Mode identification: Column 3 mode field (PH or CW) - NOT random text in exchange!
 - Region code is the last field in each QSO line
 - Contest logging software often miscalculates this due to complex multiplier rules
+
+## Correct Parsing Commands
+Use positional parsing to avoid false matches:
+```bash
+# 80m PHONE QSOs
+grep "^QSO:" logfile.log | awk '$3=="PH" && $2~/^3/ {print}'
+
+# 40m PHONE QSOs  
+grep "^QSO:" logfile.log | awk '$3=="PH" && $2~/^7/ {print}'
+
+# 80m CW QSOs
+grep "^QSO:" logfile.log | awk '$3=="CW" && $2~/^3/ {print}'
+
+# 40m CW QSOs
+grep "^QSO:" logfile.log | awk '$3=="CW" && $2~/^7/ {print}'
+```
+
+**WARNING**: Never use simple grep patterns like `grep " PH "` as this will match region exchanges containing "PH" (like "001 PH"), not the actual mode field!
